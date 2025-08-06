@@ -33,6 +33,6 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krish-Anand-dev&show_icons=true&theme=radical" height="100"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Krish-Anand-dev&theme=radical" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Anand-dev&layout=compact&theme=radical" height="150"/>
 </p>
