@@ -2,22 +2,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F723&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B;I+am+Krish+Anand)](https://git.io/typing-svg)
 
 ---
-
-### Portfolio
-> **Under Making 😜**
-
----
-
 ### Projects
-[![GitHub](https://img.shields.io/badge/My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR_USERNAME](https://github.com/Krish-Anand-dev?tab=repositories))
+[![GitHub](https://img.shields.io/badge/My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krish-Anand-dev?tab=repositories)
 
 ---
 
 ### Reach Me
-**Email:** [krishanand.dev@gmail.com](mailto:krishanand.dev@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/krish-anand-4821bb377/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8AVn1kxsQ5udKw2cxmj63A%3D%3D))
+**Email:** [krishmail@gmail.com](mailto:krishmail@gmail.com)  
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-anand-4821bb377/)
+
 
 ###Languages & Tools
 
