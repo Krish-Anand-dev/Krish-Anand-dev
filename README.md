@@ -9,7 +9,9 @@
 ---
 
 ### Reach Me
-**Email:** [krishmail@gmail.com](mailto:krishmail@gmail.com)  
+**Email:** [krishanand.dev@gmail.com
+](mailto:krishanand.dev@gmail.com
+)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-anand-4821bb377/)
 
