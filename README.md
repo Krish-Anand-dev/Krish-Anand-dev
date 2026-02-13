@@ -38,7 +38,6 @@ Cybersecurity enthusiast passionate about:
   <img src="https://img.icons8.com/color/48/network.png" alt="Networking" width="45" height="45"/>
 
   <!-- CTF Tools -->
-  <img src="https://raw.githubusercontent.com/gchq/CyberChef/master/src/web/static/images/cyberchef.png" alt="CyberChef" width="45" height="45"/>
   <img src="https://img.icons8.com/color/48/binary-file.png" alt="Hex Editor" width="45" height="45"/>
 
   <!-- Programming -->
