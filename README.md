@@ -1,5 +1,5 @@
 <!-- Typing animation with backspace effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F723&center=true&vCenter=true&width=800&lines=Access+Granted+%F0%9F%94%90;Krish+Anand+-+Cybersecurity+Enthusiast;CTF+Player+%7C+Ethical+Hacking+%7C+Blue+Team)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F723&center=true&vCenter=true&width=800&lines=Access+Granted+%F0%9F%94%90;Krish+Anand+-+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
