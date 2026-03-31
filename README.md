@@ -9,7 +9,8 @@ Cybersecurity enthusiast passionate about:
 - Ethical Hacking  
 - Network Security  
 - Linux & System Hardening  
-- Threat Analysis  
+- Threat Analysis
+- Digital Forensics  
 
 ---
 
