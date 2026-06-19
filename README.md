@@ -25,6 +25,9 @@ Blockchain forensics platform that traces ransomware payments and scores wallet 
 **GoReSym — Binary Ninja Integration** *(March 2026)*
 Built reverse-engineering tooling around GoReSym to improve analysis of stripped Go binaries. Developed a Binary Ninja plugin supporting symbol recovery, type reconstruction, interface annotation, function renaming, and source-level context restoration. Contributed enhancements to the broader GoReSym ecosystem aimed at improving reverse-engineering workflows across multiple disassemblers.
 
+**MailSift — Bulk Email Verification Tool** *(June 2026)*
+Built a layered email verification platform that validates addresses through syntax analysis, MX record lookups, SMTP mailbox verification, catch-all detection, and reputation-based fallback checks. Designed to reduce unnecessary API consumption by prioritizing DNS and SMTP validation before invoking external reputation services. Includes bulk CSV uploads, direct email-list verification, progress monitoring, and downloadable validation reports.
+
 **AI Image Detection Web App** *(July 2025)*
 Web app using live camera input to classify humans and animals, with a custom-trained ML model and real-time frontend integration.
 
