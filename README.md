@@ -1,79 +1,109 @@
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F723&center=true&vCenter=true&width=800&lines=Krish+Anand;Cybersecurity+%26+Security+Tooling)](https://git.io/typing-svg)
+<h1 align="center">Krish Anand</h1>
+<p align="center"><i>My brain runs DFS: pick a thing, go all the way down, backtrack only when there's nothing left to break.</i></p>
 
----
-
-## About Me
-
-Cybersecurity-focused undergraduate (B.Tech, Computer Science & Technology, GGSIPU – MAIT, 2024–2028) with hands-on experience in:
-
-- Blockchain forensics & malware analysis
-- Linux, networking, and system hardening
-- CTF challenges & ethical hacking
-- Threat analysis & digital forensics
-- Reverse engineering / binary analysis tooling
-
-Currently preparing for Cybersecurity Intern and SOC Trainee roles, and contributing to open-source security tooling
-
----
-
-## Featured Projects
-
-**RCPT — Ransomware Crypto Payment Tracker** *(March 2026)*
-Blockchain forensics platform that traces ransomware payments and scores wallet risk (0–100) using rule-based anomaly detection (splitting, chaining, large transfers). Includes an interactive transaction graph (Cytoscape.js) and Etherscan API integration with offline fallback.
-
-**GoReSym — Binary Ninja Integration** *(March 2026)*
-Built reverse-engineering tooling around GoReSym to improve analysis of stripped Go binaries. Developed a Binary Ninja plugin supporting symbol recovery, type reconstruction, interface annotation, function renaming, and source-level context restoration. Contributed enhancements to the broader GoReSym ecosystem aimed at improving reverse-engineering workflows across multiple disassemblers.
-
-**MailSift — Bulk Email Verification Tool** *(June 2026)*
-Built a layered email verification platform that validates addresses through syntax analysis, MX record lookups, SMTP mailbox verification, catch-all detection, and reputation-based fallback checks. Designed to reduce unnecessary API consumption by prioritizing DNS and SMTP validation before invoking external reputation services. Includes bulk CSV uploads, direct email-list verification, progress monitoring, and downloadable validation reports.
-
-**AI Image Detection Web App** *(July 2025)*
-Web app using live camera input to classify humans and animals, with a custom-trained ML model and real-time frontend integration.
-
-**Smart Digital Farm Management Portal — SIH 2025** *(Oct–Nov 2025)*
-Progressive Web App for livestock medicine schedules and alerts — served as frontend lead with partial backend contribution.
-
-[![GitHub](https://img.shields.io/badge/My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krish-Anand-dev?tab=repositories)
-
----
-
-## Hackathons & Achievements
-
-- Winner — AI/ML Track, IIT Delhi Hackathon (Techgyan, July 2025)
-- Winner — Cybersecurity & Blockchain Track, MAIT Delhi Secret Cypher 3.0 (Techxtract, March 2026)
-- TryHackMe — Pre Security Path (Completed May 2026): Linux, networking, and web fundamentals via guided labs and CTF-style challenges
-
----
-
-## Tech Stack & Tools
-
-<p align="left">
-  <!-- Core Cyber -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <!-- Networking / CTF -->
-  <img src="https://img.icons8.com/color/48/network.png" alt="Networking" width="45" height="45"/>
-  <img src="https://img.icons8.com/color/48/binary-file.png" alt="Hex Editor" width="45" height="45"/>
-  <!-- Programming -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  <!-- Web & DB -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+<p align="center">
+  <a href="mailto:krishanand.dev@gmail.com"><img src="https://img.shields.io/badge/Email-krishanand.dev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/krish-anand-/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## Contact
+```text
+$ whoami
+security engineer in the making
+majoring in computer science, learning all of it, obsessing over the security part
 
-**Email:** [krishanand.dev@gmail.com](mailto:krishanand.dev@gmail.com)
+$ cat now.txt
+> interning at FourCore, writing attacks so defenders can catch them
+> teaching implants to speak macOS
+> poking at AWS to see what falls over
+> CTFs on weekends, Go binaries at 3am
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-anand-/)
+---
+
+### Things I've Built
+
+**[E-TAP](https://github.com/Krish-Anand-dev/E-TAP)** · [live](https://e-tap-azure.vercel.app) · [demo](https://youtu.be/g9FI-taiW0E)  
+Forward it a sketchy email and get a straight answer: is this phishing, why, and what do I do? It reads headers, links, QR codes and attachments, and if you want, it detonates the attachment in your own VM and watches what it does.
+
+**[binja-goresym](https://github.com/Krish-Anand-dev/binja-goresym)** · [PR #94 → mandiant/GoReSym](https://github.com/mandiant/GoReSym/pull/94)  
+Stripped Go binaries are a pain. This brings Mandiant FLARE's GoReSym to Binary Ninja: types, interfaces, function names, all restored.
+
+**[RCPT](https://github.com/Krish-Anand-dev/RCPT)** · [live](https://ransomware-crypto-payment-tracker.vercel.app/)  
+Follow the ransomware money. It traces payments on-chain and flags wallets that split, chain and launder.
+
+**MailSift**  
+Bulk email verification that does the cheap DNS/SMTP checks before spending API credits.
+
+<details>
+<summary>Older work</summary>
+
+- **Smart Digital Farm Portal** (SIH 2025): PWA for livestock medicine schedules
+- **AI Image Detection**: live-camera human/animal classifier
+
+</details>
+
+---
+
+### Achievements
+
+- **Winner**, Cybersecurity & Blockchain track: Secret Cypher 3.0, MAIT
+- **Winner**, AI/ML track: IIT Delhi Hackathon (Techgyan)
+- **4th of 150+ teams**: Devlympics, GDG NSUT
+- **TRIVARNA CTF**: 159/378 as a team, 259/830 solo
+
+---
+
+### Toolbox
+
+**Break & Inspect**  
+![Ghidra](https://img.shields.io/badge/Ghidra-C00000?style=flat-square)
+![Binary Ninja](https://img.shields.io/badge/Binary%20Ninja-333333?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![CyberChef](https://img.shields.io/badge/CyberChef-5C2D91?style=flat-square)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
+
+**Detect & Emulate**  
+![Sigma](https://img.shields.io/badge/Sigma-1E1E1E?style=flat-square)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=flat-square)
+![Atomic Red Team](https://img.shields.io/badge/Atomic%20Red%20Team-B22222?style=flat-square)
+![Caldera](https://img.shields.io/badge/Caldera-4B4B4B?style=flat-square)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=flat-square)
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Operating Systems**  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+
+**Build**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Currently Tinkering With**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+---
+
+<p align="center"><i>If it has an attack surface, I'm curious about it.</i></p>
