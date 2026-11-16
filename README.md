@@ -30,7 +30,7 @@ Forward it a sketchy email and get a straight answer: is this phishing, why, and
 **[binja-goresym](https://github.com/Krish-Anand-dev/binja-goresym)** · [PR #94 → mandiant/GoReSym](https://github.com/mandiant/GoReSym/pull/94)  
 Stripped Go binaries are a pain. This brings Mandiant FLARE's GoReSym to Binary Ninja: types, interfaces, function names, all restored.
 
-**[RCPT](https://github.com/Krish-Anand-dev/RCPT)** · [live](https://ransomware-crypto-payment-tracker.vercel.app/)  
+**[RCPT](https://github.com/Krish-Anand-dev/RCPT)** · [live](https://rcpt-v3.vercel.app/)  
 Follow the ransomware money. It traces payments on-chain and flags wallets that split, chain and launder.
 
 **MailSift**  
