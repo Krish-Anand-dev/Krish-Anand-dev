@@ -1,5 +1,5 @@
 <h1 align="center">Krish Anand</h1>
-<p align="center"><i>My brain runs DFS: pick a thing, go all the way down, backtrack only when there's nothing left to break.</i></p>
+<p align="center"><i>My brain be running DFS, pick a thing, go all the way down, backtrack only when there's nothing left to break.</i></p>
 
 <p align="center">
   <a href="mailto:krishanand.dev@gmail.com">krishanand.dev@gmail.com</a> · <a href="https://www.linkedin.com/in/krish-anand-/">LinkedIn</a>
